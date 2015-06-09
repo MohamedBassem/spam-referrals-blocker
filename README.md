@@ -11,7 +11,7 @@ Spam referrals is a tiny Js library that is developed to remove the hassle of up
 ```
 
 ### How it works?
-The idea simply is that this repo will be used to collect spam referrals and will usually update the included script. By having the script automatically included in your website you won't have to update the spam referral list in your google analytics, because the data won't be sent to GA in the first place.
+The idea simply is that this repo will be used to collect spam referrals by users' contributions. The library will then be updated with the new urls. By having the script automatically included in your website you won't have to update the spam referral list in your google analytics anymore, it will be automatically done for you.
 
 ### How to contribute?
 This project is based heavily on contributions. Your contributions with urls, code or ideas are welcomed. Just fork the repo and create a pull request.
