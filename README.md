@@ -5,7 +5,7 @@ Spam referrals is a tiny Js library that is developed to remove the hassle of up
 - Add `<script src="https://raw.githubusercontent.com/MohamedBassem/spam-referrals-blocker/master/release/spam-referrals-blocker.js.min"></script>` to your footer before loading Google analytics' script.
 - Wrap your Google analytics code with:
 ```js
-  if( isSpamReferral() ){
+  if( !isSpamReferral() ){
     // Your google analytics code goes here.
   }
 ```
