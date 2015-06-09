@@ -1,0 +1,1 @@
+function isSpamReferral(){var e=[/buttons-for-website\.com/,/social-buttons\.com/,/4webmasters\.org/,/semalt\.com/,/free-share-buttons\.com/,/best-seo-offer\.com/,/trafficmonetize\.org/,/100dollars-seo\.com/,/event-tracking\.com/],r=document.referrer;if(r)for(var o=0;o<e.length;o++)if(r.match(e[o]))return!0;return!1}
