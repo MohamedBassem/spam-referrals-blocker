@@ -15,3 +15,4 @@ The idea simply is that this repo will be used to collect spam referrals and wil
 
 ### How to contribute?
 This project is based heavily on contributions. Your contributions with urls, code or ideas are welcomed. Just fork the repo and create a pull request.
+*Note: Spam referrals are in 'spam-referrals-blocker.js' file*
