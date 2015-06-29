@@ -1,0 +1,3 @@
+[submodule "referrer-spam-blacklist"]
+	path = referrer-spam-blacklist
+	url = git@github.com:piwik/referrer-spam-blacklist.git
