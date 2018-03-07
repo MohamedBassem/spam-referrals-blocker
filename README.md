@@ -1,5 +1,5 @@
-#Spam Referrals Blocker
-Spam referrals is a tiny Js library that is developed to remove the hassle of updating your Google Analytics filters with urls spamming your referral results. It's extremely useful for websites that you don't have control on its web server, GitHub pages for instance.
+# Spam Referrals Blocker
+Spam referrals is a tiny JS library that is developed to remove the hassle of updating your Google Analytics filters with urls spamming your referral results. It's extremely useful for websites that you don't have control on its web server, GitHub pages for instance.
 
 ### How to use it?
 - Add `<script src="https://github.com/MohamedBassem/spam-referrals-blocker/releases/download/v0.2/spam-referrals-blocker.min.js"></script>` to your footer before loading Google Analytics' script.
